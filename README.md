@@ -1,4 +1,4 @@
-[![GitHub ]()
+[![GitHub ](https://github.com/StormFn155/DriftBot-Release)
 [![Python version](https://img.shields.io/badge/python%2C%203.6%2C%203.7%2C%203.8%2C%203.9-blue.svg)](https://python.org)
 # Release
 - Fixed Status Command old one was broken.
@@ -73,7 +73,7 @@ Step 7.
 
 If it prompts for an authorization code, get the code from <a href="http://bit.ly/epicauthcode" target="_blank">here</a>
 
-If you have any other issues / questions, feel free to join our <a href="https://discord.gg/zdtscj3T4e" target="_blank">Discord server</a> or check out the <a href="https://github.com/github/docs/compare/main...StormFn155:patch-2" target="_blank">FAQ</a>
+If you have any other issues / questions, feel free to join our <a href="https://discord.gg/zdtscj3T4e" target="_blank">Discord server</a> or check out the <a href="https://github.com/StormFn155/DriftBot-Release/wiki" target="_blank">FAQ</a>
 
 ## Acknowledgments
 
